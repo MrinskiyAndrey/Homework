@@ -12,3 +12,4 @@ def binary(a):
     return b
 print("В двоичной системе счисления", x, "выглядит как ", binary(x))
 
+input()
